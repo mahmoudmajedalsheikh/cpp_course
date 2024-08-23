@@ -2,7 +2,7 @@
 
 ## Levels
 
-### Level-1-p1
+### Level-p1 Basics
 <details>
 <summary>Click to toggle contents of This Level </summary>
 
@@ -39,5 +39,143 @@
 - [x] 
 - [] 
 
+</details>
+
+---
+
+## Level-p2-Problem Solving
+
+<details>
+<summary>Click to toggle contents of This Level</summary>
+  
+- [] 1
+- [] 2
+- [] 3
+- [] 4
+- [] 5
+- [] 6
+- [] 7
+- [] 8
+- [] 9
+- [] 10
+- [] 11
+- [] 12
+- [] 13
+- [] 14
+- [] 15
+- [] 16
+- [] 17
+- [] 18
+- [] 19
+- [] 20
+- [] 21
+- [] 22
+- [] 23
+- [] 24
+- [] 25
+- [] 26
+- [] 27
+- [] 28
+- [] 29
+- [] 30
+- [] 31
+- [] 32
+- [] 33
+- [] 34
+- [] 35
+
 
 </details>
+
+---
+
+## Leve2-p1-Problem Solving
+
+<details>
+<summary>Click to toggle contents of This Level</summary>
+- [] 1
+- [] 2
+- [] 3
+- [] 4
+- [] 5
+- [] 6
+- [] 7
+- [] 8
+- [] 9
+- [] 10
+- [] 11
+- [] 12
+- [] 13
+- [] 14
+- [] 15
+- [] 16
+- [] 17
+- [] 18
+- [] 19
+- [] 20
+- [] 21
+- [] 22
+- [] 23
+- [] 24
+- [] 25
+- [] 26
+- [] 27
+- [] 28
+- [] 29
+- [] 30
+- [] 31
+- [] 32
+- [] 33
+- [] 34
+- [] 35
+
+</details>
+
+
+---
+
+## Level-3-p1 Implement Functions With C++
+
+<details>
+<summary>Click to toggle contents of This Level</summary>
+- [] 1
+- [] 2
+- [] 3
+- [] 4
+- [] 5
+- [] 6
+- [] 7
+- [] 8
+- [] 9
+- [] 10
+- [] 11
+- [] 12
+- [] 13
+- [] 14
+- [] 15
+- [] 16
+- [] 17
+- [] 18
+- [] 19
+- [] 20
+- [] 21
+- [] 22
+- [] 23
+- [] 24
+- [] 25
+- [] 26
+- [] 27
+- [] 28
+- [] 29
+- [] 30
+
+</details>
+
+
+---
+
+
+
+
+
+
