@@ -4,7 +4,7 @@
 
 ### Level-1-p1
 <details>
-<summary>Click to toggle contents of `code`</summary>
+<summary>Click to toggle contents of This Level </summary>
 
 - [x] 1
 - [x] 2
