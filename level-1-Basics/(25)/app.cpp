@@ -1,66 +1,44 @@
-/* 22 => Primitive Data Types- (Modifiers)
-  --- Modify The Length Of Data => See Limits
+/*
+  Operators & Operands
+  "Symbols To Operate On Data"
 
-  ----- ٍSigned [int, char]
-  -------- Store Positive, Negative Integers And 0
-  -------- int Is Signed By Default
+  - Assignment Operators
+  "For Assigning Operations"
 
-  ----- Unsigned [int, char]
-  -------- Store Positive Only
-
-  ----- Short [int]
-  -------- Can Be short Instead of short int
-
-  ----- Long [int, double]
-  -------- Store Maximum Value
-  -------- Can Be long Instead of long int
-
-  - Type Alias
-  --- using identifier = type;
-  --- typedef unsigned long UL;
-
+  --- = Assign
+  --- += Addition
+  --- -= Subtraction
+  --- *= Multiplication
+  --- /= Division
+  --- %= Modulo => Remainder After Division
 */
 
 #include <iostream>
-#include <limits.h>
 using namespace std;
 
 int main()
 {
-  int age = 300;
-  cout << sizeof(age) << "\n"; // 4 Bytes
+  cout << 4 % 2 << "\n";  // 0
+  cout << 6 % 2 << "\n";  // 0
+  cout << 8 % 2 << "\n";  // 0
+  cout << 11 % 2 << "\n"; // 1
 
-  short int new_age = 300;
-  cout << sizeof(new_age) << "\n"; // 2 Bytes
+  int a = 10;
+  // a = a + 10;        // a = 10 + 10 = 20
+  a += 10; // a = 10 + 10 = 20
+  // a = a + 10
+  // a += 10
+  cout << a << "\n"; // 20
 
-  short last_age = 300;
-  cout << sizeof(last_age) << "\n"; // 2 Bytes
+  int b = 20;
+  // b = b - 10; // b = 20 - 10 = 10
+  b -= 10; // b = b - 10
+  cout << b << "\n";
 
-  cout << sizeof(short int) << "\n";
-  cout << sizeof(short) << "\n";
-  cout << sizeof(long int) << "\n";
-  cout << sizeof(long) << "\n";
-  cout << sizeof(long long int) << "\n";
-  cout << sizeof(long long) << "\n";
-
-  int num_one = 100;
-  cout << num_one << "\n";
-
-  signed int num_two = 0;
-  cout << num_two << "\n";
-
-  unsigned int num_three = 100;
-  cout << num_three << "\n";
-
-  // unsigned int num_four = -10; // Problem
-  // cout << num_four << "\n";
-
-  // using bignum = long long int;
-
-  typedef long long int bignum;
-
-  bignum my_number = 100010001000;
-  cout << my_number << "\n";
+  int c = 5;
+  // c = c * 10; // c = 5 * 10 = 50;
+  c *= 10; // c = c * 10
+  cout << c << "\n";
 
   return 0;
 }
