@@ -3,6 +3,7 @@
 /.vscode
 /build
 /output
+/output/app.exe
 /test.py
 /tempCodeRunnerFile.cpp
 /tempCodeRunnerFile.exe
