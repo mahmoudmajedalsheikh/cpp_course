@@ -2,6 +2,10 @@
 /build
 /.vscode
 /build
+/build/Debug
+/build/Debug/app.o
+/build/Debug/outDebug.exe
+/build
 /output
 /output/app.exe
 /test.py
@@ -11,4 +15,11 @@
 /test.sh
 /tempCodeRunnerFile.py
 /test.bash
+/output
+/output/app.exe
+/test.zig
+/output
+/output/app.exe
+/test.c
+/output/test.exe
 /.gitignore
