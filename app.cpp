@@ -1,4 +1,4 @@
-/*-------------------- loop with while  */
+
 // #include <iostream>
 // #include <array>
 // // #include <cstring>
@@ -14,14 +14,14 @@
 
 
 
-
+/*-------------------- Loop Break Continue */
 #include <iostream>
+#include <array>
 using namespace std;
 
 int main() {
-
-
-    return 0;
+  
+  return 0;
 }
 
 
