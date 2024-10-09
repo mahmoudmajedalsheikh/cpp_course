@@ -13,17 +13,26 @@
 // }
 
 
+/*---------- Function Forward Declaration
+Function (PARMATER = "default Value"){
+  ParameterValue -> Argument
+  return statement 
+}
 
-/*-------------------- Loop Break Continue */
+
+----------*/
 #include <iostream>
 #include <array>
 using namespace std;
 
-int main() {
-  
-  return 0;
-}
 
+
+
+
+int main() {
+
+  
+}
 
 
 
